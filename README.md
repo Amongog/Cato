@@ -3,6 +3,7 @@
 Cato es una aplicación del juego de gato (_tic-tac-toe_) escrito en C, con una interfaz gráfica por medio de GTK+3.0 y Glade.
 
 Programa desarrollado para el Proyecto de C del curso IE-0117 Programación Bajo Plataformas Abiertas.
+
 **» Grupo 06**
     - Samuel Berrocal Soto.
     - Mario Benavides.
